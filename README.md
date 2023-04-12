@@ -21,7 +21,7 @@ cd discord-bot-template
 ```
 
 ```bash
-pnpm --dir discord-bot-template install
+pnpm --dir bot install
 ```
 
 Add your bot token to the `.env` file.
